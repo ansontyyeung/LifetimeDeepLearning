@@ -14,6 +14,6 @@ The DNN model is built with the following methods. In the feedforward process, R
 
 ======================================================================
 
-Steps and Results are being shown inside each file
+Results shown in "LEDLifetimePrediction.pdf" P.24-43.
 
 Created by YEUNG Tung Yan
